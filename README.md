@@ -1,7 +1,7 @@
 Magrathea 2.0
 =============
 
-This is a solution to the code-golf problem (Magrathea 2.0)[http://codegolf.stackexchange.com/questions/22192/magrathea-2-0-building-mountains]. Feel free to fork and improve.
+This is a solution to the code-golf problem [Magrathea 2.0](http://codegolf.stackexchange.com/questions/22192/magrathea-2-0-building-mountains). Feel free to fork and improve.
 
 A few usage notes:
 
@@ -12,7 +12,8 @@ The input should follow this format (from code-golf problem):
 A string of dots and digits providing the basis for the mountain chain. Each string is exactly as long as necessary to support the mountains and each peak is given by a digit instead of a dot, indicating the height of the peak.
 
 Example:
-..3..2.
+
+    ..3..2.
 
 **Output**
 
